@@ -25,6 +25,7 @@ hello-java-maven/ ├── pom.xml └── src/ └── main/ └── jav
 4. Set up a Jenkins Freestyle project with clean package goal.
 5. Build executed successfully with BUILD SUCCESS message.
 
-📌 Outcome
+## 📌 Outcome
+
 Successfully built a Java Maven project using Jenkins, demonstrating basic CI workflow.
 
